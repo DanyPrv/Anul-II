@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1571178813 source:c:\users\daniel\desktop\facultate\anul ii\oop\lab1\main.c
+	"ireal.h"
+
+1571206626 c:\users\daniel\desktop\facultate\anul ii\oop\lab1\ireal.h
+	<stdio.h>
+	<stdlib.h>
+
+1571206592 source:c:\users\daniel\desktop\facultate\anul ii\oop\lab1\ireal.c
+	"ireal.h"
+

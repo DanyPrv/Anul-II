@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+  Source.cpp
+  Generating Code...
+C:\Users\Daniel\Desktop\Facultate\anul II\OOP\lab9\pb1\pb1\Complex.cpp(57): warning C4172: returning address of local variable or temporary: a
+  pb1.vcxproj -> C:\Users\Daniel\Desktop\Facultate\anul II\OOP\lab9\pb1\Debug\pb1.exe
